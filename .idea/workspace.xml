@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="" />
+    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ee.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/ee.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d7evN7t5TE3ghZa4PJ9otsz5OV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +35,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bazyu\java_Project\study\JavaGuide" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591780788308</updated>
-      <workItem from="1591780790920" duration="785000" />
+      <workItem from="1591780790920" duration="2411000" />
     </task>
     <servers />
   </component>
@@ -63,6 +75,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591780795112" />
+    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591782273818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591782273818" />
     <state width="1877" height="79" key="GridCell.Tab.0.bottom" timestamp="1591781281879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -27,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -79,6 +80,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591782273818" />
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1597025588243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597025588243" />
     <state width="1877" height="79" key="GridCell.Tab.0.bottom" timestamp="1591781281879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

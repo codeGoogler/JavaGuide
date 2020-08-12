@@ -25,6 +25,7 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+/.gitignore/
 
 ### VS Code ###
 .vscode/

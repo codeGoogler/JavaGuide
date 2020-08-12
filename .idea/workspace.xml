@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="">
+    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="提酒">
+      <change afterPath="$PROJECT_DIR$/java/相关面试文档/100问－面试.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/相关面试文档/JAVA 面试32问.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/相关面试文档/JAVA葵花宝典.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/相关面试文档/JAVA面试葵花宝典.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/相关面试文档/Java常见面试题.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/相关面试文档/javaWeb面试题.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/相关面试文档/一线互联网企业面试题.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/ee.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/ee.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +39,19 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/相关面试文档" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bazyu\java_Project\study\JavaGuide\java\相关面试文档" />
       <recent name="D:\bazyu\java_Project\study\JavaGuide" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bazyu\java_Project\study\JavaGuide\java" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -65,25 +77,51 @@
       <option name="presentableId" value="Default" />
       <updated>1591780788308</updated>
       <workItem from="1591780790920" duration="2411000" />
+      <workItem from="1597025385138" duration="3230000" />
+      <workItem from="1597107510851" duration="599000" />
+      <workItem from="1597123460723" duration="1707000" />
     </task>
+    <task id="LOCAL-00001" summary="提交gitignote忽略文件">
+      <created>1597025703050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597025703050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交gitignote忽略文件">
+      <created>1597025776747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597025776747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交gitignote忽略文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交gitignote忽略文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1591780795112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591780795112" />
-    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591782273818">
+    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597123561080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591782273818" />
-    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1597025588243">
+    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597123561080" />
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1597193190103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597025588243" />
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597193190103" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597029921972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597029921972" />
     <state width="1877" height="79" key="GridCell.Tab.0.bottom" timestamp="1591781281879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -100,10 +138,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="79" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591781281879" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1591781282388">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1597126712683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591781282388" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597126712683" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597025780104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597025780104" />
     <state x="334" y="130" key="new project wizard" timestamp="1591781250398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

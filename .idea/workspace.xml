@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="提交几个相关的面试题2">
-      <change afterPath="$PROJECT_DIR$/java/功能知识点/redis/redis 和 memecache 有什么区别.md" afterDir="false" />
+    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200道java核心面试题/200道核心面试题目录预览.md" beforeDir="false" afterPath="$PROJECT_DIR$/200道java核心面试题/200道核心面试题目录预览.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <workItem from="1597025385138" duration="3230000" />
       <workItem from="1597107510851" duration="599000" />
       <workItem from="1597123460723" duration="2625000" />
-      <workItem from="1597366044819" duration="6449000" />
+      <workItem from="1597366044819" duration="7835000" />
     </task>
     <task id="LOCAL-00001" summary="提交gitignote忽略文件">
       <created>1597025703050</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597193316016</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="提交一个redis的作用">
+      <created>1597393503608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597393503609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +133,8 @@
     <MESSAGE value="提交gitignote忽略文件" />
     <MESSAGE value="提交几个相关的面试题" />
     <MESSAGE value="提交几个相关的面试题2" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交几个相关的面试题2" />
+    <MESSAGE value="提交一个redis的作用" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交一个redis的作用" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1591780795112">
@@ -137,10 +145,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597123561080" />
-    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1597193292844">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1597393502933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597193292844" />
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597393502933" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597029921972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -173,10 +181,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597126712683" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597193238416">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597393505121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597193238416" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597393505121" />
     <state x="334" y="130" key="new project wizard" timestamp="1591781250398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

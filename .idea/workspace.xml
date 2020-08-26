@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="提交一个封面图">
+    <list default="true" id="4447b19c-7238-4c20-887f-ef3d1c6b63c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java/功能知识点/netty/什么是netty.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/200道java核心面试题/200道核心面试题目录预览.md" beforeDir="false" afterPath="$PROJECT_DIR$/200道java核心面试题/200道核心面试题目录预览.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/功能知识点/redis/redis 和 memecache 有什么区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/功能知识点/redis/redis 和 memecache 有什么区别.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +40,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bazyu\java_Project\study\JavaGuide\java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\bazyu\java_Project\study\JavaGuide\java\相关面试文档" />
       <recent name="D:\bazyu\java_Project\study\JavaGuide" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\bazyu\java_Project\study\JavaGuide\java" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -75,7 +75,10 @@
       <workItem from="1597107510851" duration="599000" />
       <workItem from="1597123460723" duration="2625000" />
       <workItem from="1597366044819" duration="10568000" />
-      <workItem from="1597625557635" duration="6748000" />
+      <workItem from="1597625557635" duration="7277000" />
+      <workItem from="1597711816048" duration="7936000" />
+      <workItem from="1597803253936" duration="597000" />
+      <workItem from="1598404344652" duration="258000" />
     </task>
     <task id="LOCAL-00001" summary="提交gitignote忽略文件">
       <created>1597025703050</created>
@@ -119,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597395423163</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="提交一个封面图">
+      <created>1597657879797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597657879797</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +165,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597123561080" />
-    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1597397884513">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1597657879134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597397884513" />
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597657879134" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1597397881903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -195,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597126712683" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597395425681">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597657880966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597395425681" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597657880966" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597625610460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
